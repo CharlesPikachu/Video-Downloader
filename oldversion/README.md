@@ -32,4 +32,4 @@ see → [click](./developmentlog)
 # More
 #### WeChat Official Accounts
 *Charles_pikachu*  
-![img](./Screenshot/pikachu.jpg)
+![img](./material/pikachu.jpg)
