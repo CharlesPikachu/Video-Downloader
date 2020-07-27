@@ -15,7 +15,7 @@ If there are any infringements, please contact me to delete this repository.
 # Support
 |  Websites                                         |   Introduction                                                 |  Code                |  in Chinese          |
 |  :----:                                           |   :----:                                                       |  :----:              |  :----:              |
-|  [douyin](https://www.douyin.com/)                |   [click]https://mp.weixin.qq.com/s/xFIjSM5U7Rhie311EV5ZPQ     |  [click](./douyin)   |  抖音                |
+|  [douyin](https://www.douyin.com/)                |   [click](https://mp.weixin.qq.com/s/xFIjSM5U7Rhie311EV5ZPQ)   |  [click](./douyin)   |  抖音                |
 
 
 # More
